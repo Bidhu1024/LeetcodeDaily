@@ -6,4 +6,4 @@ var maxProfit = function(prices) {
         mp = Math.max(mp,prices[i]-min)
     }
     return mp;
-};
+}; q
