@@ -1,4 +1,4 @@
-ar intersect = function(nums1, nums2) {
+var intersect = function(nums1, nums2) {
     if(nums1.length === 0)return;
     if(nums2.length === 0)return;
 
